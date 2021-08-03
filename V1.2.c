@@ -1,12 +1,8 @@
 #include <stdio.h>
-/*
-This is our first c program
-which is awesome!
-*/
+
 int main()
 {
     int a = 4;
-    // int b = 8.5; // Not recommended because 8.5 is not an integer
     float b = 8.5;
     char c = 'u';
     int d = 45;
@@ -18,5 +14,3 @@ int main()
     printf("Sum of a and d is %d \n", e);
     return 0;
 }
-
-// Try it Yourself --> Create a program to add two numbers in C
